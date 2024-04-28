@@ -1,0 +1,29 @@
+nav{
+    padding: 2%;
+    background-color: orange;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav li a{
+    text-decoration: none;
+    color: white;
+}
+
+.img{
+    width: 50%;
+}
+
+.texto{
+    padding: 3%;
+}
